@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/opt/homebrew/opt/llvm/bin/clang",
+      "-Iinclude",
+      "-g",
+      "-Wall",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/Users/chase/Coding/C/raylib/tetris",
+    "file": "/Users/chase/Coding/C/raylib/tetris/src/main.c",
+    "output": "/Users/chase/Coding/C/raylib/tetris/obj/main.o"
+  },
+  {
+    "arguments": [
+      "/opt/homebrew/opt/llvm/bin/clang",
+      "-Iinclude",
+      "-g",
+      "-Wall",
+      "-c",
+      "-o",
+      "obj/tetromino.o",
+      "src/tetromino.c"
+    ],
+    "directory": "/Users/chase/Coding/C/raylib/tetris",
+    "file": "/Users/chase/Coding/C/raylib/tetris/src/tetromino.c",
+    "output": "/Users/chase/Coding/C/raylib/tetris/obj/tetromino.o"
+  }
+]
